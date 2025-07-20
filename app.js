@@ -1,0 +1,1 @@
+console.log('BTCC Fantasy League App Loaded');
